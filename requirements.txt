@@ -1,0 +1,16 @@
+certifi==2021.10.8
+cffi @ file:///D:/bld/cffi_1636046293990/work
+charset-normalizer==2.0.12
+idna==3.3
+mkl-service==2.3.0
+numpy @ file:///D:/bld/numpy_1646717636399/work
+Pillow==9.0.1
+protobuf==3.19.4
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+requests==2.27.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboardX==2.5
+torch==1.11.0
+torchvision==0.12.0
+typing_extensions==4.1.1
+urllib3==1.26.9
